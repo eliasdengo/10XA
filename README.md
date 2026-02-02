@@ -1,4 +1,5 @@
 Integrating the MCP Server with Visual Studio Code: An Overview
+
 In my recent project, I undertook the integration of the MCP (Model Control Protocol) server with Visual Studio Code, targeting an enhanced development environment. This initiative involved the creation of a specific folder structure and documentation to support seamless interaction with GitHub Copilot’s capabilities.
 
 What I Did
